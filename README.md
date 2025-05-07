@@ -23,31 +23,15 @@ Je suis étudiant en BTS SIO SLAM, passionné par le développement logiciel, le
 
 ## 🛠️ Compétences techniques
 
-### 🎨 Frontend
+### 📂 Languages & Frameworks  
+[![Languages](https://skillicons.dev/icons?i=html,css,js,react,php,java,python,c,cpp)](https://skillicons.dev)
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)  
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-### 🔧 Backend
-
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)  
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-### 🗄️ Base de données
-
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+### 🧮 Databases  
+[![Databases](https://skillicons.dev/icons?i=mysql,github)](https://skillicons.dev)  
+*Also experienced with PHPMyAdmin*
 
 ### 🧰 Outils
-
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![Outils](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
 
 ---
 
