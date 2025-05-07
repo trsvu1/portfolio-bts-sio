@@ -85,8 +85,7 @@ Comprendre l’impact des LLMs comme ChatGPT dans les métiers du développement
 ## 📞 Me contacter
 
 - 📧 Email : [truong-son.vu@mediaschool.me]
-- 💼 LinkedIn : [lien vers ton profil]
-- 🌐 Site : [lien vers ton portfolio hébergé]
+- 💼 LinkedIn : (https://www.linkedin.com/in/trsvu1/)
 
 ---
 
