@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;700&display=swap');
+        
+        body {
+            font-family: 'Roboto Mono', monospace;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            scroll-behavior: smooth;
+        }
+        
+        .tech-text {
+            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            font-weight: 700;
+        }
+        
+        .skill-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(59, 130, 246, 0.3);
+        }
+        
+        .project-card {
+            transition: all 0.3s ease;
+            background: linear-gradient(145deg, #1e293b, #0f172a);
+        }
+        
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(59, 130, 246, 0.3);
+        }
+        
+        .nav-link {
+            position: relative;
+        }
+        
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -2px;
+            left: 0;
+            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+            transition: width 0.3s ease;
+        }
+        
+        .nav-link:hover::after {
+            width: 100%;
+        }
+        
+        .active::after {
+            width: 100%;
+        }
+        
+        .form-input {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            transition: all 0.3s ease;
+        }
+        
+        .form-input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+        }
+        
+        .glow {
+            animation: glow 2s infinite alternate;
+        }
+        
+        @keyframes glow {
+            from {
+                box-shadow: 0 0 5px -5px #3b82f6;
+            }
+            to {
+                box-shadow: 0 0 20px 5px #3b82f6;
+            }
+        }
+        
+        h1 {
+            font-size: 16px;
+            margin-top: 0;
+        }
+        
+        p {
+            color: rgb(107, 114, 128);
+            font-size: 15px;
+            margin-bottom: 10px;
+            margin-top: 5px;
+        }
+        
+        .card {
+            max-width: 620px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 1px solid lightgray;
+            border-radius: 16px;
+        }
+        
+        .card p:last-child {
+            margin-bottom: 0;
+        }
